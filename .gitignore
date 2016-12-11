@@ -1,0 +1,7 @@
+
+### IntelliJ IDEA
+*.iml
+### Build output
+target/
+### credentials
+src/main/resources/credentials
